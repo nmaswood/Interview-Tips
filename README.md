@@ -31,6 +31,7 @@ Recruiting 2016 is over and these are a collection of things that are fresh in m
 * Do a little research on the company's open source/blog if its out there
 
 # Misc
+* Use a head set, typing can get noisey af especially if you type like me and that can get distracting!
 * These things can be kind of shit show, but no matter what just stay calm and have fun
 * Always be good/nice to the recruiter, if it doesn't work out maybe it will next year
 * It's only a tech job ... chill out...
